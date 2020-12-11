@@ -9,7 +9,7 @@ public class FirstUniqueCharacterInString {
 		FirstUniqueCharacterInString obj = new FirstUniqueCharacterInString();
 		int index = obj.firstUniqChar(input);
 		
-		System.out.println(index);
+		System.out.println(index1);
 	}
 	public int firstUniqChar(String s) 
 	{
