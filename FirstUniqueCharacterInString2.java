@@ -5,7 +5,7 @@ public class FirstUniqueCharacterInString {
 
 	public static void main(String[] args) 
 	{
-		String input = "loveleetcode";
+		String input = "loveleetcode1";
 		FirstUniqueCharacterInString obj = new FirstUniqueCharacterInString();
 		int index = obj.firstUniqChar(input);
 		
