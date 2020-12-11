@@ -8,7 +8,7 @@ public class Anagram
 	public static void main(String[] args) 
 	{
 		// TODO Auto-generated method stub
-		Anagram anagram2 = new Anagram();
+		Anagram anagram1 = new Anagram();
 		String[] strs = {"eat","tea","tan","ate","nat","bat"};
 		
 		List<List<String>> lists = anagram.groupAnagrams(strs);
